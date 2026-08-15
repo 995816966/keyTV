@@ -1,8 +1,0 @@
-#EXTM3U
-# 标准 M3U：分类会被应用忽略，统一进一个平列表
-#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://example.com/logo/cctv1.png" group-title="央视",CCTV-1
-https://example.com/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-logo="https://example.com/logo/cctv5.png" group-title="央视",CCTV-5
-https://example.com/live/cctv5.m3u8
-#EXTINF:-1 tvg-id="hunan" tvg-logo="https://example.com/logo/hunan.png" group-title="卫视",湖南卫视
-https://example.com/live/hunan.m3u8

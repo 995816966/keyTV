@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <!-- 用于通过 SAF 选择本地直播源文件，无需存储权限 -->
-    <external-path name="external_files" path="." />
-</paths>

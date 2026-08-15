@@ -1,0 +1,5 @@
+// 顶层构建文件：仅声明插件版本，不引入依赖
+plugins {
+    id 'com.android.application' version '8.2.0' apply false
+    id 'org.jetbrains.kotlin.android' version '1.9.22' apply false
+}
